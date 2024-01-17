@@ -1,3 +1,3 @@
-<?php 
-echo "Hello World!";
-?>
+<?php
+echo "halaman index";
+echo "Imam Dwi Kurniawan";
